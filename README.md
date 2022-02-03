@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrBorsch
+- 👋 Hi, I’m @MrBorscht
 - 👀 I’m interested in Blockchain Technology and Metaverse
 - 🌱 I’m currently learning Python and Solidity
 - 💞️ I’m looking to collaborate on anything related to the mentioned above interests
